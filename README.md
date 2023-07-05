@@ -7,5 +7,5 @@ Proyecto medidor RLC con circuitos, integracion IoT con Helium y vizualizacion P
 ## Ciruitos:
 ###Circuito medidor Resistencia:
 
-###Circuito medidor Capacitancia:
-###Circuito medidor Inductancia:
+##Circuito medidor Capacitancia:
+##Circuito medidor Inductancia:
