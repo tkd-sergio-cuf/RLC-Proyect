@@ -1,2 +1,11 @@
 # RLC-Proyect
-Es el código de un proyecto RLC con IoT, comunicandose por LoRaWan utilizando Helium. Para este proyecto se utilizo la Heltec Wifi Lora 32 v2
+Proyecto medidor RLC con circuitos, integracion IoT con Helium y vizualizacion Pantalla OLED.
+## Caracterizticas Funcionales:
+- Mide resistencias entre 1k ohm y 330 kohm.
+- Mide condensadores entre 1nF y 10uF.
+- Mide inductancias entre 1mH a  330mH.
+## Ciruitos:
+###Circuito medidor Resistencia:
+
+###Circuito medidor Capacitancia:
+###Circuito medidor Inductancia:
